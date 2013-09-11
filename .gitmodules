@@ -1,0 +1,3 @@
+[submodule "Spika-iOS"]
+	path = Spika-iOS
+	url = https://github.com/cloverstudio/Spika-iOS.git
