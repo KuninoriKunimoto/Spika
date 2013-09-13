@@ -4,3 +4,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/cloverstudio/Spika-Server.git
+[submodule "Spika-Android"]
+	path = Spika-Android
+	url = https://github.com/cloverstudio/Spika-Android.git
